@@ -1,16 +1,11 @@
-## Hi there 👋
+# Bem-Vindo(a) ao Meu Perfil!
 
-<!--
-**ArtthurJM/ArtthurJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Meu nome é Arthur.
+Sou um desenvolvedor apaixonado por tecnologia e programação. Fique à vontade para explorar meus projetos e entrar em contato comigo nas redes sociais.
+Estou estudando na [Alura](https://www.alura.com.br)
+Estou utilizando a linguagem javaScript
+Utilizo esse espaço para organização dos meus projetos desenvolvidos
+🌐 Meu Site
+📫 LinkedIn
+🐦 Twitter
+![](https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif)
